@@ -29,11 +29,21 @@
 
 ## 📈 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamon-Tahara-504&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamon-Tahara-504&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kamon-Tahara-504&theme=tokyonight)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Kamon-Tahara-504&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamon-Tahara-504&layout=compact&theme=tokyonight" />
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Kamon-Tahara-504&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Kamon-Tahara-504&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
