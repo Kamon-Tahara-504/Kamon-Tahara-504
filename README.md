@@ -1,4 +1,4 @@
-# Hi, I'm AKAamon 👋
+# Hi, I'm Kamon 👋
 
 - 🎂 Age: 17  
 - 🍰 Favorite things: All kinds of sweets  
