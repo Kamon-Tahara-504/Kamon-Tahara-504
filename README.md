@@ -1,9 +1,9 @@
-# Hi, I'm Kamon 👋
+# Hi, I'm Kamon
 
-- 🎂 Age: 17  
-- 🍰 Favorite things: All kinds of sweets  
+- Age: 17  
+- Favorite things: All kinds of sweets  
 
-##  My Career 😇
+##  My Career
 - At **14**, I got into Unity and started learning my first programming language — **C#**.
 - At **15**, I wanted to understand programming more deeply, so I began studying **C** and **Python** at the same time.
 - At **16**, I mastered most of the basics of **C**, explored **Django** with Python, and also started learning **HTML/CSS**.
@@ -27,7 +27,7 @@
 
 ---
 
-## 📈 My GitHub Stats
+## My GitHub Stats
 
 <table>
   <tr>
