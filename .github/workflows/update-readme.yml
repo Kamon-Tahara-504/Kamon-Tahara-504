@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,8 +26,8 @@ jobs:
       
       - name: Commit and push if changed
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "Kamon-Tahara-504@users.noreply.github.com"
+          git config --local user.name "Kamon-Tahara-504"
           git add README.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "README.md updated - $(date +'%Y-%m-%d')" && git push)
 
