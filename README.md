@@ -1,42 +1,16 @@
-# Hi, I'm Kamon
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:E95B3C,29:E95B3C,48:F37745,66:FFA741,100:FFD204&animation=twinkling&text=Hi,%20I'm%20Kamon&fontAlign=22&fontAlignY=32&fontSize=48&fontColor=E0F2FE&desc=Age:%2017%20%7C%20Favorite%20things:%20All%20kinds%20of%20sweets&descAlign=32&descAlignY=60&descSize=21" alt="Hi, I'm Kamon banner" />
+</p>
 
-- Age: 17  
-- Favorite things: All kinds of sweets  
+## My Career
 
-<div align="center">
-  <svg width="100%" height="200" viewBox="0 0 800 200" preserveAspectRatio="none">
-    <defs>
-      <linearGradient id="career-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#0f172a">
-          <animate attributeName="offset" values="0;1;0" dur="12s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="50%" stop-color="#1f2937">
-          <animate attributeName="offset" values="0.5;0;0.5" dur="12s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#0f172a">
-          <animate attributeName="offset" values="1;0;1" dur="12s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="800" height="200" fill="url(#career-gradient)">
-      <animate attributeName="x" values="0;-100;0" dur="18s" repeatCount="indefinite" />
-    </rect>
-    <text x="50%" y="50%" fill="#f8fafc" font-size="48" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle" dominant-baseline="middle" letter-spacing="4">
-      MY CAREER
-    </text>
-    <text x="50%" y="70%" fill="#cbd5f5" font-size="18" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle" dominant-baseline="middle" letter-spacing="3">
-      CRAFTING EXPERIENCES THROUGH CODE
-    </text>
-  </svg>
-</div>
-
-##  My Career
 - At **14**, I got into Unity and started learning my first programming language — **C#**.
 - At **15**, I wanted to understand programming more deeply, so I began studying **C** and **Python** at the same time.
 - At **16**, I mastered most of the basics of **C**, explored **Django** with Python, and also started learning **HTML/CSS**.
 - At **17**, I built my first web app using Django — and that sparked my interest in **app development**. I'm currently creating mobile apps using **Dart** and **Flutter**.
 
 ## My Skills 🛠
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" style="border-radius:8px;" alt="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" style="border-radius:8px;" alt="Dart"/>
@@ -76,7 +50,7 @@
 
 ---
 
-##  Last Updated
+## Last Updated
 <!-- AUTO_UPDATE_DATE -->
 **2025-11-11 01:11:17 UTC**
 <!-- END_AUTO_UPDATE_DATE -->
