@@ -9,19 +9,22 @@
 - At **16**, I mastered most of the basics of **C**, explored **Django** with Python, and also started learning **HTML/CSS**.
 - At **17**, I built my first web app using Django — and that sparked my interest in **app development**. I'm currently creating mobile apps using **Dart** and **Flutter**.
 
-## My Skills 🛠
+## My Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" style="border-radius:8px;" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" style="border-radius:8px;" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="48" height="48" style="border-radius:8px;" alt="Swift"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" style="border-radius:8px;" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" style="border-radius:8px;" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" style="border-radius:8px;" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" style="border-radius:8px;" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" style="border-radius:8px;" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" style="border-radius:8px;" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" style="border-radius:8px;" alt="CSS"/>
+  <img src="./assets/icons/flutter.svg" width="48" height="48" style="border-radius:8px;" alt="Flutter"/>
+  <img src="./assets/icons/dart.svg" width="48" height="48" style="border-radius:8px;" alt="Dart"/>
+  <img src="./assets/icons/swift.svg" width="48" height="48" style="border-radius:8px;" alt="Swift"/>
+  <img src="./assets/icons/python.svg" width="48" height="48" style="border-radius:8px;" alt="Python"/>
+  <img src="./assets/icons/django.svg" width="48" height="48" style="border-radius:8px;" alt="Django"/>
+  <img src="./assets/icons/java.svg" width="48" height="48" style="border-radius:8px;" alt="Java"/>
+  <img src="./assets/icons/c.svg" width="48" height="48" style="border-radius:8px;" alt="C"/>
+  <img src="./assets/icons/csharp.svg" width="48" height="48" style="border-radius:8px;" alt="C#"/>
+  <img src="./assets/icons/html5.svg" width="48" height="48" style="border-radius:8px;" alt="HTML"/>
+  <img src="./assets/icons/css3.svg" width="48" height="48" style="border-radius:8px;" alt="CSS"/>
+  <img src="./assets/icons/react.svg" width="48" height="48" style="border-radius:8px;" alt="React"/>
+  <img src="./assets/icons/typescript.svg" width="48" height="48" style="border-radius:8px;" alt="TypeScript"/>
+  <img src="./assets/icons/kotlin.svg" width="48" height="48" style="border-radius:8px;" alt="Kotlin"/>
 </p>
 
 ※ As of July 2025
