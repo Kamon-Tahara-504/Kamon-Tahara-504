@@ -11,23 +11,30 @@
 
 ## My Skills
 
+### Mastery / 最強
 <p align="left">
-  <img src="./assets/icons/flutter.svg" width="48" height="48" style="border-radius:8px;" alt="Flutter"/>
-  <img src="./assets/icons/dart.svg" width="48" height="48" style="border-radius:8px;" alt="Dart"/>
-  <img src="./assets/icons/swift.svg" width="48" height="48" style="border-radius:8px;" alt="Swift"/>
-  <img src="./assets/icons/python.svg" width="48" height="48" style="border-radius:8px;" alt="Python"/>
-  <img src="./assets/icons/django.svg" width="48" height="48" style="border-radius:8px;" alt="Django"/>
-  <img src="./assets/icons/java.svg" width="48" height="48" style="border-radius:8px;" alt="Java"/>
-  <img src="./assets/icons/c.svg" width="48" height="48" style="border-radius:8px;" alt="C"/>
-  <img src="./assets/icons/csharp.svg" width="48" height="48" style="border-radius:8px;" alt="C#"/>
-  <img src="./assets/icons/html5.svg" width="48" height="48" style="border-radius:8px;" alt="HTML"/>
-  <img src="./assets/icons/css3.svg" width="48" height="48" style="border-radius:8px;" alt="CSS"/>
+  <img src="./assets/icons/flutter.svg" width="52" height="52" style="border-radius:10px;" alt="Flutter"/>
+  <img src="./assets/icons/dart.svg" width="52" height="52" style="border-radius:10px;" alt="Dart"/>
+  <img src="./assets/icons/c.svg" width="52" height="52" style="border-radius:10px;" alt="C"/>
+</p>
+
+### Learning / 伸ばし中
+<p align="left">
   <img src="./assets/icons/react.svg" width="48" height="48" style="border-radius:8px;" alt="React"/>
   <img src="./assets/icons/typescript.svg" width="48" height="48" style="border-radius:8px;" alt="TypeScript"/>
+  <img src="./assets/icons/java.svg" width="48" height="48" style="border-radius:8px;" alt="Java"/>
+  <img src="./assets/icons/swift.svg" width="48" height="48" style="border-radius:8px;" alt="Swift"/>
   <img src="./assets/icons/kotlin.svg" width="48" height="48" style="border-radius:8px;" alt="Kotlin"/>
 </p>
 
-※ As of July 2025
+### On Pause / 使わない
+<p align="left">
+  <img src="./assets/icons/html5.svg" width="48" height="48" style="border-radius:8px;" alt="HTML"/>
+  <img src="./assets/icons/css3.svg" width="48" height="48" style="border-radius:8px;" alt="CSS"/>
+  <img src="./assets/icons/python.svg" width="48" height="48" style="border-radius:8px;" alt="Python"/>
+  <img src="./assets/icons/django.svg" width="48" height="48" style="border-radius:8px;" alt="Django"/>
+  <img src="./assets/icons/csharp.svg" width="48" height="48" style="border-radius:8px;" alt="C#"/>
+</p>
 
 ---
 
