@@ -18,7 +18,7 @@
   <img src="./assets/icons/c.svg" width="52" height="52" style="border-radius:10px;" alt="C"/>
 </p>
 
-### Learning / 伸ばし中
+### Currently Learning / 学習中
 <p align="left">
   <img src="./assets/icons/react.svg" width="48" height="48" style="border-radius:8px;" alt="React"/>
   <img src="./assets/icons/typescript.svg" width="48" height="48" style="border-radius:8px;" alt="TypeScript"/>
@@ -27,7 +27,7 @@
   <img src="./assets/icons/kotlin.svg" width="48" height="48" style="border-radius:8px;" alt="Kotlin"/>
 </p>
 
-### On Pause / 使わない
+### On Hold / 今は使っていない
 <p align="left">
   <img src="./assets/icons/html5.svg" width="48" height="48" style="border-radius:8px;" alt="HTML"/>
   <img src="./assets/icons/css3.svg" width="48" height="48" style="border-radius:8px;" alt="CSS"/>
