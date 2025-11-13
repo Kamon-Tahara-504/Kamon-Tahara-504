@@ -29,5 +29,5 @@ jobs:
           git config --local user.email "taharacomeon.0504@gmail.com"
           git config --local user.name "Kamon-Tahara-504"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "README.md updated" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README.md" && git push)
 
