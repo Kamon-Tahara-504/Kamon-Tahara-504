@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:E95B3C,29:E95B3C,48:F37745,66:FFA741,100:FFD204&animation=twinkling&text=Hi,%20I'm%20Kamon&fontAlign=22&fontAlignY=32&fontSize=48&fontColor=E0F2FE&desc=Age:%2017%20%7C%20Favorite%20things:%20All%20kinds%20of%20sweets&descAlign=32&descAlignY=60&descSize=21" alt="Hi, I'm Kamon banner" />
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kamon-Tahara-504.Kamon-Tahara-504&left_color=E95B3C&right_color=FFA741&left_text=Profile%20Views&right_text=" alt="Profile Views" />
+</p>
+
 ## My Career
 
 - At **14**, I got into Unity and started learning my first programming language — **C#**.
@@ -62,6 +66,6 @@
 
 ## Last Updated
 <!-- AUTO_UPDATE_DATE -->
-**2025-12-01 01:23:44 UTC**
+**2025-12-01 13:00:31 UTC**z
 <!-- END_AUTO_UPDATE_DATE -->
 
