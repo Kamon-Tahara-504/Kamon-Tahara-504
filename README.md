@@ -57,7 +57,7 @@
   </tr>
   <tr style="background-color: transparent;">
     <td style="width: 50%; padding: 0; margin: 0; border: 0; background-color: transparent;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamon-Tahara-504&theme=gruvbox" style="width: 100%; display: block; margin: 0; padding: 0;" alt="Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Kamon-Tahara-504&theme=gruvbox&show_icons=true&hide_border=true&bg_color=282828&title_color=fe8019&text_color=d5c4a1&icon_color=fe8019" style="width: 100%; display: block; margin: 0; padding: 0;" alt="Stats" />
     </td>
     <td style="width: 50%; padding: 0; margin: 0; border: 0; background-color: transparent;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamon-Tahara-504&theme=gruvbox&utcOffset=9" style="width: 100%; display: block; margin: 0; padding: 0;" alt="Productive Time" />
