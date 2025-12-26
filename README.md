@@ -41,26 +41,26 @@
 
 ## My GitHub Stats
 
-<table style="width: 100%; max-width: 100%; border: 0; border-spacing: 0; border-collapse: collapse; margin: 0; padding: 0; table-layout: fixed; background-color: transparent;">
-  <tr style="background-color: transparent;">
-    <td colspan="2" style="width: 100%; padding: 0; margin: 0; border: 0; background-color: transparent;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamon-Tahara-504&theme=gruvbox" style="width: 100%; display: block; margin: 0; padding: 0;" alt="Profile Details" />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="2">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamon-Tahara-504&theme=gruvbox" width="100%" alt="Profile Details" />
     </td>
   </tr>
-  <tr style="background-color: transparent;">
-    <td style="width: 50%; padding: 0; margin: 0; border: 0; background-color: transparent;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamon-Tahara-504&theme=gruvbox" style="width: 100%; display: block; margin: 0; padding: 0;" alt="Top Languages by Repo" />
+  <tr>
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamon-Tahara-504&theme=gruvbox" width="100%" alt="Top Languages by Repo" />
     </td>
-    <td style="width: 50%; padding: 0; margin: 0; border: 0; background-color: transparent;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamon-Tahara-504&theme=gruvbox" style="width: 100%; display: block; margin: 0; padding: 0;" alt="Top Languages by Commit" />
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamon-Tahara-504&theme=gruvbox" width="100%" alt="Top Languages by Commit" />
     </td>
   </tr>
-  <tr style="background-color: transparent;">
-    <td style="width: 50%; padding: 0; margin: 0; border: 0; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kamon-Tahara-504&theme=gruvbox&show_icons=true&hide_border=true&bg_color=282828&title_color=fe8019&text_color=d5c4a1&icon_color=fe8019" style="width: 100%; display: block; margin: 0; padding: 0;" alt="Stats" />
+  <tr>
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamon-Tahara-504&theme=gruvbox" width="100%" alt="Stats" />
     </td>
-    <td style="width: 50%; padding: 0; margin: 0; border: 0; background-color: transparent;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamon-Tahara-504&theme=gruvbox&utcOffset=9" style="width: 100%; display: block; margin: 0; padding: 0;" alt="Productive Time" />
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamon-Tahara-504&theme=gruvbox&utcOffset=9" width="100%" alt="Productive Time" />
     </td>
   </tr>
 </table>
