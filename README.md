@@ -41,26 +41,26 @@
 
 ## My GitHub Stats
 
-<table width="100%" style="border: 0; border-spacing: 0; border-collapse: collapse;">
+<table style="width: 100%; max-width: 100%; border: 0; border-spacing: 0; border-collapse: collapse; margin: 0; padding: 0;">
   <tr>
-    <td colspan="2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamon-Tahara-504&theme=gruvbox" width="100%" alt="Profile Details" />
+    <td colspan="2" style="width: 100%; padding: 0; margin: 0;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamon-Tahara-504&theme=gruvbox" style="width: 100%; display: block;" alt="Profile Details" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamon-Tahara-504&theme=gruvbox" width="100%" alt="Top Languages by Repo" />
+    <td style="width: 50%; padding: 0; margin: 0;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamon-Tahara-504&theme=gruvbox" style="width: 100%; display: block;" alt="Top Languages by Repo" />
     </td>
-    <td width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamon-Tahara-504&theme=gruvbox" width="100%" alt="Top Languages by Commit" />
+    <td style="width: 50%; padding: 0; margin: 0;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamon-Tahara-504&theme=gruvbox" style="width: 100%; display: block;" alt="Top Languages by Commit" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamon-Tahara-504&theme=gruvbox" width="100%" alt="Stats" />
+    <td style="width: 50%; padding: 0; margin: 0;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamon-Tahara-504&theme=gruvbox" style="width: 100%; display: block;" alt="Stats" />
     </td>
-    <td width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamon-Tahara-504&theme=gruvbox&utcOffset=9" width="100%" alt="Productive Time" />
+    <td style="width: 50%; padding: 0; margin: 0;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamon-Tahara-504&theme=gruvbox&utcOffset=9" style="width: 100%; display: block;" alt="Productive Time" />
     </td>
   </tr>
 </table>
