@@ -41,25 +41,25 @@
 
 ## My GitHub Stats
 
-<table style="width: 100%; max-width: 100%; border: 0; border-spacing: 0; border-collapse: collapse; margin: 0; padding: 0; table-layout: fixed; background: transparent;">
-  <tr>
-    <td colspan="2" style="width: 100%; padding: 0; margin: 0; border: 0; background: transparent;">
+<table style="width: 100%; max-width: 100%; border: 0; border-spacing: 0; border-collapse: collapse; margin: 0; padding: 0; table-layout: fixed; background-color: transparent;">
+  <tr style="background-color: transparent;">
+    <td colspan="2" style="width: 100%; padding: 0; margin: 0; border: 0; background-color: transparent;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamon-Tahara-504&theme=gruvbox" style="width: 100%; display: block; margin: 0; padding: 0;" alt="Profile Details" />
     </td>
   </tr>
-  <tr>
-    <td style="width: 50%; padding: 0; margin: 0; border: 0; background: transparent;">
+  <tr style="background-color: transparent;">
+    <td style="width: 50%; padding: 0; margin: 0; border: 0; background-color: transparent;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamon-Tahara-504&theme=gruvbox" style="width: 100%; display: block; margin: 0; padding: 0;" alt="Top Languages by Repo" />
     </td>
-    <td style="width: 50%; padding: 0; margin: 0; border: 0; background: transparent;">
+    <td style="width: 50%; padding: 0; margin: 0; border: 0; background-color: transparent;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamon-Tahara-504&theme=gruvbox" style="width: 100%; display: block; margin: 0; padding: 0;" alt="Top Languages by Commit" />
     </td>
   </tr>
-  <tr>
-    <td style="width: 50%; padding: 0; margin: 0; border: 0; background: transparent;">
+  <tr style="background-color: transparent;">
+    <td style="width: 50%; padding: 0; margin: 0; border: 0; background-color: transparent;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamon-Tahara-504&theme=gruvbox" style="width: 100%; display: block; margin: 0; padding: 0;" alt="Stats" />
     </td>
-    <td style="width: 50%; padding: 0; margin: 0; border: 0; background: transparent;">
+    <td style="width: 50%; padding: 0; margin: 0; border: 0; background-color: transparent;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamon-Tahara-504&theme=gruvbox&utcOffset=9" style="width: 100%; display: block; margin: 0; padding: 0;" alt="Productive Time" />
     </td>
   </tr>
