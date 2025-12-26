@@ -41,29 +41,11 @@
 
 ## My GitHub Stats
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td colspan="2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamon-Tahara-504&theme=gruvbox" width="100%" alt="Profile Details" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamon-Tahara-504&theme=gruvbox" width="100%" alt="Top Languages by Repo" />
-    </td>
-    <td width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamon-Tahara-504&theme=gruvbox" width="100%" alt="Top Languages by Commit" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamon-Tahara-504&theme=gruvbox" width="100%" alt="Stats" />
-    </td>
-    <td width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamon-Tahara-504&theme=gruvbox&utcOffset=9" width="100%" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamon-Tahara-504&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamon-Tahara-504&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamon-Tahara-504&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamon-Tahara-504&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamon-Tahara-504&theme=gruvbox&utcOffset=9)
 
 ---
 
