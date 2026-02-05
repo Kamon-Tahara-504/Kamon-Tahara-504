@@ -41,8 +41,6 @@
 
 ## My GitHub Stats
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kamon-Tahara-504&theme=juicyfresh" alt="GitHub Trophy" />
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamon-Tahara-504&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamon-Tahara-504&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamon-Tahara-504&theme=gruvbox)
@@ -53,6 +51,6 @@
 
 ## Last Updated
 <!-- AUTO_UPDATE_DATE -->
-**2026-02-05 01:29:20 UTC**
+**2025-12-26 01:14:57 UTC**
 <!-- END_AUTO_UPDATE_DATE -->
 
