@@ -3,14 +3,23 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kamon-Tahara-504.Kamon-Tahara-504&left_color=E95B3C&right_color=FFA741&left_text=Profile%20Views&right_text=" alt="Profile Views" style="position: absolute; top: 10px; right: 10px; z-index: 10;" />
 </p>
 
-## My Career
+## Career
 
-- At **14**, I got into Unity and started learning my first programming language — **C#**.
-- At **15**, I wanted to understand programming more deeply, so I began studying **C** and **Python** at the same time.
-- At **16**, I mastered most of the basics of **C**, explored **Django** with Python, and also started learning **HTML/CSS**.
-- At **17**, I built my first web app using Django — and that sparked my interest in **app development**. I'm currently creating mobile apps using **Dart** and **Flutter**.
+### 日本語
 
-## My Skills
+- **14歳** Unityに触れながら、初めてのプログラミング言語 **C#** を学び始める。
+- **15歳** コーディングををより深く理解したく、**C** と **Python** を同時に学び始め競技プログラミングで遊ぶ。
+- **16歳** **C** の基礎のほとんどを習得し、Python で **Django** を触れ、**HTML/CSS** 学び始ながら初めてのWebアプリケーションを作成。
+- **17歳** **アプリ開発** に興味が湧き、Webアプリを開発すると同時に **Dart** と **Flutter** でモバイルアプリの分野を学んでいます。
+
+### English
+
+- At **14**, I started learning my first programming language — **C#** while exploring Unity.
+- At **15**, I wanted to understand coding more deeply, so I began studying **C** and **Python** at the same time and started playing with competitive programming.
+- At **16**, I mastered most of the basics of **C**, explored **Django** with Python, and created my first web application while starting to learn **HTML/CSS**.
+- At **17**, I got interested in **app development** and am learning mobile app development with **Dart** and **Flutter** while also developing web apps.
+
+## Skills
 
 ### Mastery / 最強
 <p align="left">
@@ -39,7 +48,7 @@
 
 ---
 
-## My GitHub Stats
+## GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamon-Tahara-504&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamon-Tahara-504&theme=gruvbox)
