@@ -72,10 +72,8 @@ Tools and languages I have used before.
   <img src="./assets/icons/ThisOne4-1.png" width="100%" alt="ThisOne #1 app preview" />
 </p>
 
-All-in-one task, schedule, and memo management.
-A mobile application designed to improve everyday productivity.
-タスク、スケジュール、メモ、を一つのアプリで一括管理！
-日常生活の生産性向上を図るモバイルアプリケーションです。
+All-in-one task, schedule, and memo management to improve everyday productivity.<br/>
+タスク、スケジュール、メモ、を一つのアプリで一元管理し、日常生活の生産性向上を図るモバイルアプリケーションです。
 
 - **Category:** Productivity
 - **Platform:** iPhone
