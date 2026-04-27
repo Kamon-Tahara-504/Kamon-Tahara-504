@@ -21,30 +21,61 @@
 
 ## Skills
 
-### Mastery / 最強
+### Core / 主力
+Main technologies I use to build and ship projects now.
 <p align="left">
   <img src="./assets/icons/flutter.svg" width="52" height="52" style="border-radius:10px;" alt="Flutter"/>
   <img src="./assets/icons/dart.svg" width="52" height="52" style="border-radius:10px;" alt="Dart"/>
   <img src="./assets/icons/c.svg" width="52" height="52" style="border-radius:10px;" alt="C"/>
+  <img src="./assets/icons/nextjs.svg" width="52" height="52" style="border-radius:10px;" alt="Next.js"/>
+  <img src="./assets/icons/typescript.svg" width="52" height="52" style="border-radius:10px;" alt="TypeScript"/>
+  <img src="./assets/icons/supabase.svg" width="52" height="52" style="border-radius:10px;" alt="Supabase"/>
 </p>
 
-### Currently Learning / 学習中
+### Growing / 学習中
+Technologies I actively study and apply in ongoing projects.
 <p align="left">
   <img src="./assets/icons/react.svg" width="48" height="48" style="border-radius:8px;" alt="React"/>
-  <img src="./assets/icons/typescript.svg" width="48" height="48" style="border-radius:8px;" alt="TypeScript"/>
+  <img src="./assets/icons/fastapi.svg" width="48" height="48" style="border-radius:8px;" alt="FastAPI"/>
+  <img src="./assets/icons/aws.svg" width="48" height="48" style="border-radius:8px;" alt="AWS"/>
+  <img src="./assets/icons/docker.svg" width="48" height="48" style="border-radius:8px;" alt="Docker"/>
+  <img src="./assets/icons/spring-boot.svg" width="48" height="48" style="border-radius:8px;" alt="Spring Boot"/>
+  <img src="./assets/icons/vuejs.svg" width="48" height="48" style="border-radius:8px;" alt="Vue.js"/>
+  <img src="./assets/icons/figma.svg" width="48" height="48" style="border-radius:8px;" alt="Figma"/>
+  <img src="./assets/icons/postgresql.svg" width="48" height="48" style="border-radius:8px;" alt="PostgreSQL"/>
+  <img src="./assets/icons/ruby.svg" width="48" height="48" style="border-radius:8px;" alt="Ruby"/>
   <img src="./assets/icons/java.svg" width="48" height="48" style="border-radius:8px;" alt="Java"/>
   <img src="./assets/icons/swift.svg" width="48" height="48" style="border-radius:8px;" alt="Swift"/>
   <img src="./assets/icons/kotlin.svg" width="48" height="48" style="border-radius:8px;" alt="Kotlin"/>
 </p>
 
-### On Hold / 今は使っていない
+### Explored / 経験あり
+Tools and languages I have used before.
 <p align="left">
+  <img src="./assets/icons/firebase.svg" width="48" height="48" style="border-radius:8px;" alt="Firebase"/>
   <img src="./assets/icons/html5.svg" width="48" height="48" style="border-radius:8px;" alt="HTML"/>
   <img src="./assets/icons/css3.svg" width="48" height="48" style="border-radius:8px;" alt="CSS"/>
   <img src="./assets/icons/python.svg" width="48" height="48" style="border-radius:8px;" alt="Python"/>
   <img src="./assets/icons/django.svg" width="48" height="48" style="border-radius:8px;" alt="Django"/>
   <img src="./assets/icons/csharp.svg" width="48" height="48" style="border-radius:8px;" alt="C#"/>
 </p>
+
+---
+
+## Featured Project / 代表プロジェクト
+
+### ThisOne #1
+
+<p align="left">
+  <img src="./assets/icons/ThisOne4-1.png" width="100%" alt="ThisOne #1 app preview" />
+</p>
+
+Task, schedule, and memo management in one app with a clean and modern UI.
+
+- **Category:** Productivity
+- **Platform:** iPhone
+- **Repository:** [Kamon-Tahara-504/ThisOne](https://github.com/Kamon-Tahara-504/ThisOne)
+- **Store:** [ThisOne #1 on the App Store](https://apps.apple.com/jp/app/thisone-1/id6755763891)
 
 ---
 
