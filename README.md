@@ -19,6 +19,8 @@
 - At **16**, I mastered most of the basics of **C**, explored **Django** with Python, and created my first web application while starting to learn **HTML/CSS**.
 - At **17**, I got interested in **app development** and am learning mobile app development with **Dart** and **Flutter** while also developing web apps.
 
+---
+
 ## Skills
 
 ### Core / 主力
@@ -70,7 +72,10 @@ Tools and languages I have used before.
   <img src="./assets/icons/ThisOne4-1.png" width="100%" alt="ThisOne #1 app preview" />
 </p>
 
-Task, schedule, and memo management in one app with a clean and modern UI.
+All-in-one task, schedule, and memo management.
+A mobile application designed to improve everyday productivity.
+タスク、スケジュール、メモ、を一つのアプリで一括管理！
+日常生活の生産性向上を図るモバイルアプリケーションです。
 
 - **Category:** Productivity
 - **Platform:** iPhone
