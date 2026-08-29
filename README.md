@@ -8,16 +8,18 @@
 ### 日本語
 
 - **14歳** Unityに触れながら、初めてのプログラミング言語 **C#** を学び始める。
-- **15歳** コーディングををより深く理解したく、**C** と **Python** を同時に学び始め競技プログラミングで遊ぶ。
-- **16歳** **C** の基礎のほとんどを習得し、Python で **Django** を触れ、**HTML/CSS** 学び始ながら初めてのWebアプリケーションを作成。
-- **17歳** **アプリ開発** に興味が湧き、Webアプリを開発すると同時に **Dart** と **Flutter** でモバイルアプリの分野を学んでいます。
+- **15歳** コーディングをより深く理解したいと思い、**C** と **Python** で競技プログラミングに触れる。
+- **16歳** **C** の基礎を習得し、Pythonでは **Django** に触れ、**HTML/CSS** 学び始ながら初めてのWebアプリケーションを作成。
+- **17歳** アプリ開発に興味が湧き、Web では **TypeScript** と **React** を学びつつ、**Dart** と **Flutter** でモバイルアプリ開発に取り組む。
+- **18歳** 課題を解決できるアプリ開発をし続けるため、作って終わりではなく運用まで担えるよう、**AWS** と **Linux** を学び始める。
 
 ### English
 
 - At **14**, I started learning my first programming language — **C#** while exploring Unity.
 - At **15**, I wanted to understand coding more deeply, so I began studying **C** and **Python** at the same time and started playing with competitive programming.
 - At **16**, I mastered most of the basics of **C**, explored **Django** with Python, and created my first web application while starting to learn **HTML/CSS**.
-- At **17**, I got interested in **app development** and am learning mobile app development with **Dart** and **Flutter** while also developing web apps.
+- At **17**, I got interested in app development and am learning **TypeScript** and **React** for the web while building mobile apps with **Dart** and **Flutter**.
+- At **18**, to keep solving problems through app development, I started learning **AWS** and **Linux** so I can operate what I build, not just ship it.
 
 ---
 
